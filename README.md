@@ -1,5 +1,5 @@
 # starterTemplate-Social-Login-API
-a starter template for logging in users with their social account information using the Stamplay Rest API
+a Javascript starter template for logging in users with their social account information using the Stamplay Rest API
 
 **CLONING: When cloning this repo, you must initialize the app first to make it work.**
 
